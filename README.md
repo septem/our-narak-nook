@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Our Nook | 我們的專屬小窩</title>
+    <title>Our Narak Nook | 我們的專屬小窩</title>
     <style>
         :root {
             --day-bg: linear-gradient(180deg, #FFEFBA 0%, #FFFFFF 100%);
